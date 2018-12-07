@@ -1,4 +1,4 @@
-class CloudformationDocs < Formula
+class CFDoc < Formula
 
   desc "Tool to generate documentation from Cloudformation templates"
   homepage "https://github.com/daniel-ciaglia/cf-doc"
