@@ -2,9 +2,9 @@ class TerraformDocs < Formula
 
   desc "Tool to generate documentation from Terraform modules"
   homepage "https://github.com/daniel-ciaglia/terraform-docs"
-  url "https://github.com/daniel-ciaglia/terraform-docs/releases/download/v0.5.0.1/terraform-docs-darwin-amd64"
-  sha256 "9df0ece1038527f4c4d286598b3f848dbc0b667f6f945c944c64e55d20d9fe5d"
-  version "0.5.0.1"
+  url "https://github.com/daniel-ciaglia/terraform-docs/releases/download/v0.6.0.1/terraform-docs-darwin-amd64"
+  sha256 "9cc6ecf074a23e0cf2943ef79c6bf751d12ef072e3722ecfc4835082fd31fac3"
+  version "0.6.0.1"
 
   bottle :unneeded
 
